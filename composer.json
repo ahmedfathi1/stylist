@@ -1,5 +1,5 @@
 {
-  "name": "floatingpoint/stylist",
+  "name": "ahmedzidan/laravel-stylist",
   "description": "Laravel 5 theming package.",
   "authors": [
     {
@@ -12,14 +12,14 @@
     }
   ],
   "require": {
-    "php": "^7.0",
-    "laravelcollective/html": "~5.5",
-    "illuminate/support": "~5.5"
+    "php": "^7.2",
+    "laravelcollective/html": "6.0",
+    "illuminate/support": "^6.0"
   },
   "require-dev": {
-    "mockery/mockery": "^0.9.5",
-    "orchestra/testbench": "~3.0",
-    "phpunit/phpunit": "~6.0"
+    "mockery/mockery": "^1.3",
+    "orchestra/testbench": "^4.0",
+    "phpunit/phpunit": "~8.5"
   },
   "autoload": {
     "psr-4": {
