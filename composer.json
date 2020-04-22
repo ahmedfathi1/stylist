@@ -1,6 +1,7 @@
 {
   "name": "ahmedzidan/laravel-stylist",
   "description": "Laravel 5 theming package.",
+  "license": "MIT",
   "authors": [
     {
       "name": "Kirk Bushell",
